@@ -153,7 +153,6 @@ nav ul {
 }
 .plate {
     position: relative;
-    height: 430vh;
     width: 83vw;
     background-color: lightgray;
     border-radius: 30px;
@@ -292,4 +291,5 @@ footer ul{
         text-align: center;
     }
 } */
+
 
