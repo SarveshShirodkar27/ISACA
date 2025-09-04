@@ -152,8 +152,8 @@ nav ul {
     gap: 20px;
 }
 .plate {
-        position: relative;
-    height: 250vh;
+    position: relative;
+    height: 430vh;
     width: 83vw;
     background-color: lightgray;
     border-radius: 30px;
@@ -162,6 +162,8 @@ nav ul {
     flex-wrap: wrap;
     gap: 30px;
     margin: auto;
+    overflow: scroll;
+    scrollbar-width: none;
 }
 
 .plate img {
@@ -290,3 +292,4 @@ footer ul{
         text-align: center;
     }
 } */
+
